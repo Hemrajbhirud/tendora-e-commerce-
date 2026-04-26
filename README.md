@@ -69,16 +69,18 @@ Log out and log back in to see the 'Admin Dashboard' button in your profile.
 Place your frontend module screenshots in a `screenshots` directory at the project root with the corresponding filenames below.
 
 ### Home Page
-![Home Page](screenshots/home.png)
+<img width="1572" height="848" alt="Screenshot 2026-04-22 at 11 44 00 AM" src="https://github.com/user-attachments/assets/add1d9a5-9a75-4567-8c7e-0aad5cfbb155" />
+
 
 ### Shop / Products
-![Shop Page](screenshots/shop.png)
+<img width="1710" height="985" alt="Screenshot 2026-04-22 at 11 44 43 AM" src="https://github.com/user-attachments/assets/3b7392fe-3a58-4d85-9438-2d8663c0773a" />
+
 
 ### Product Listing
-![Product Details](screenshots/product.png)
+<img width="1707" height="983" alt="Screenshot 2026-04-22 at 11 44 25 AM" src="https://github.com/user-attachments/assets/0d78b64b-db68-48d9-886d-e794328addfc" />
+
 
 ### Cart & Checkout
-![Cart Page](screenshots/cart.png)
+<img width="1697" height="970" alt="Screenshot 2026-04-22 at 11 45 25 AM" src="https://github.com/user-attachments/assets/ef2a63e2-f1a7-4a6a-bc11-e3cb7de64780" />
+<img width="1572" height="810" alt="Screenshot 2026-04-26 at 11 29 57 PM" src="https://github.com/user-attachments/assets/fd269268-353e-4c83-8c66-6759af292866" />
 
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin.png)
